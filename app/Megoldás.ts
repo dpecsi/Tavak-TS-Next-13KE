@@ -27,7 +27,7 @@ export default class Megoldás {
   }
 
   get vanMagyar(): boolean {
-    return this.#tavak.filter((tó) => tó.országok.includes("Magyarország")).length > 0;
+    return this.#tavak.findIndex((tó) => tó.országok.includes("Magyarország")) >= 0;
   }
 
   get sivatagosTavak(): number {
