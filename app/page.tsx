@@ -14,7 +14,7 @@ export default function TavakOldal() {
       <p>9. feladat: Sivatagos területen fekvő tavak: {m.sivatagosTavak} db</p>
       <p>10. feladat: {m.ausztrálTavak("ausztral.txt")}</p>
       <p>11. feladat: Statisztika</p>
-      {[...m.statisztika.entries()].map((érték) => {
+      {[...m.statisztika].map((érték) => {
         return (<p key={érték[0]}>{"\t" + érték[0]} - {érték[1]} db</p>)
       })}
     </div>
