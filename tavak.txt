@@ -1,0 +1,51 @@
+Tó;Terület_km2;Ország
+Kaszpi-tenger;371000;Oroszország,Kazahsztán,Türkmenisztán,Azerbajdzsán
+Felső-tó;82411;USA,Kanada
+Viktória-tó;69482;Tanzánia,Uganda,Kenya
+Huron-tó;59594;USA,Kanada
+Michigan-tó;58014;USA
+Aral-tó;41000;Kazahsztán,Üzbegisztán
+Tanganyika-tó;32892;KongóiD.K.,Tanzánia,Zambia,Burundi
+Bajkál-tó;31500;Oroszország
+Nagy-Medve-tó;31079;Kanada
+Malawi (Nyasza)-tó;30043;Malawi,Mozambik,Tanzánia
+Nagy-Rabszolga-tó;28929;Kanada
+Erie-tó;25744;USA,Kanada
+Winnipeg-tó;23541;Kanada
+Ontario-tó;19528;USA,Kanada
+Balkas-tó;18300;Kazahsztán
+Ladoga-tó;17700;Oroszország
+Csád-tó;16000-24750;Csád,Nigéria,Niger,Kamerun
+Eyre-tó;10000-15000;Ausztrália
+Onyega-tó;9720;Oroszország
+Titicaca-tó;8135;Peru,Bolívia
+Nicaragua-tó;8001;Nicaragua
+Athabasca-tó;7920;Kanada
+Turkana (Rudolf)-tó;6400-8000;Kenya,Etiópia
+Rénszarvas-tó;6330;Kanada
+Iszik-köl;6280;Kirgizisztán
+Urmia-tó;6001;Irán
+Nettilling-tó;5760;Kanada
+Vänem;5585;Svédország
+Winnipegosis-tó;5402;Kanada
+Mobutu (Albert)-tó;5299;Uganda,KongóiDem.Közt.
+Dongting-tó;5000;Kína
+Bangweulu-tó;5000;Zambia
+Nipigon-tó;4843;Kanada
+Manitoba-tó;4706;Kanada
+Gairdner-tó;4700-7700;Ausztrália
+Tajmír-tó;4560;Oroszország
+Kuku-nór (Qinghai-tó);4200-5700;Kína
+Mweru-tó;4196;Zambia,KongóiDem.Közt.
+Hanka-tó;4190;Kína,Oroszország
+Dubawnt-tó;4144;Kanada
+Erdők tava;3846;Kanada,USA
+Van-tó;3763;Törökország
+Csúd-tó;3550;Észtország,Oroszország
+Uvsz-tó;3350;Mongólia
+Tana-tó;3100;Etiópia
+Torrens-tó;3000-5700;Ausztrália
+Rukwa-tó;3000;Tanzánia
+Melville-tó;2990;Kanada
+Zajszan-tó;2800;Kazahsztán
+Boyangi-tó;2771;Kína
